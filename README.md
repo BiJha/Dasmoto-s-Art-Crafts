@@ -1,2 +1,2 @@
-# Dasmoto-s-Art-Crafts
+# Dasmoto's Art & Crafts
 This is Codecademy CSS projects.
