@@ -1,2 +1,2 @@
 # Dasmoto's Art & Crafts
-This is Codecademy CSS project.
+Website for a fictional arts and crafts store.
