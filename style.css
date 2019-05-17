@@ -1,38 +1,42 @@
 /*This is the main heading of this webpage with background image */
 h1 {
    font-size: 100px;
-   font-weight: bold;
    color: Khaki;
    text-align: center;
    background-image: url(./images/pattern.jpeg);
 }
 
-/*font-family added to all elements in a body*/
+/* font-family for entire body */
 body {
    font-family: Helvetica, sans-serif;
 }
 
+/*font-weight for h1,h2 */
+h1, h2 {
+         font-weight: bold;
+}
+
 /*class startingPrice is created */
-.startingPrice{
+.startingPrice {
+               font-family: Helvetica;
                font-weight: bold;
                color: blue;
 }
 
 /*class heading is created*/
-.heading{
+.heading {
          font-size: 32px;
-         font-weight: bold;
          color: white;
      }
 
 /*Id brushBackground is created for background image */
-#brushBackground{
+#brushBackground {
                  background-color: mediumspringgreen;
 
 }
 
 /* Id frameBackground is created for background image */
-#frameBackground{
+#frameBackground {
                  background-color: lightcoral;
 }
 
