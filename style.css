@@ -9,7 +9,7 @@ h1 {
 
 /*font-family added to all elements in a body*/
 body {
-   font-family: Helvetica; sans-serif;
+   font-family: Helvetica, sans-serif;
 }
 
 /*class startingPrice is created */
