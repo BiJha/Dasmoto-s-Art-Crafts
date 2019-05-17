@@ -11,16 +11,15 @@ body {
    font-family: Helvetica, sans-serif;
 }
 
-/*font-weight for h1,h2 */
-h1, h2 {
-         font-weight: bold;
-}
-
 /*class startingPrice is created */
 .startingPrice {
                font-family: Helvetica;
-               font-weight: bold;
                color: blue;
+}
+
+/*font-weight for h1, h2, startingPrice*/
+h1, h2, .startingPrice {
+         font-weight: bold;
 }
 
 /*class heading is created*/
@@ -44,3 +43,4 @@ h1, h2 {
 #paintBackground{
                  background-color: skyblue;
 }
+
